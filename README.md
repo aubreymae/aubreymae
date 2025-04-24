@@ -1,4 +1,6 @@
-## My name is Aubrey 👋 I craft accessible and seamless interfaces for the web (and potentially beyond-- I have a growing interest in computer graphics).
+## Hello world, my name is Aubrey 👋
+
+I craft accessible and seamless interfaces for the web (and potentially beyond-- I have a growing interest in computer graphics).
 
 - 🔭 I’m currently working on CycleSpots and an upcoming learning app for self-taught artists.
 - 🌱 I’m currently learning front-end development and working with databases.
