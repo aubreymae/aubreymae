@@ -1,10 +1,9 @@
 # Hi there, I'm Aubrey 👋 
-### Part-time pixel pusher, full-time developer
 
 I craft accessible, seamless web solutions with a focus on visual storytelling.
 
-
 ### 🛠️ Works in Progress
+- 📕 **Blogging API:** Developing a small-scale API service for microblogging
 - 🔭 **Improving CycleSpots:** Refining user experience and performance
 - 🎨 **Learning App for Artists:** Building a dedicated space for self-taught concept artists to thrive.
 - 🌱 **Growth Phase:** Diving into backend patterns and the mathematical foundations of Computer Graphics.
