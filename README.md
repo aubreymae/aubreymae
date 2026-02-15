@@ -4,12 +4,12 @@
 I craft accessible, seamless web solutions with a focus on visual storytelling.
 
 
-### 🛠️ What I'm Up To
+### 🛠️ Works in Progress
 - 🔭 **Improving CycleSpots:** Refining user experience and performance
 - 🎨 **Learning App for Artists:** Building a dedicated space for self-taught concept artists to thrive.
 - 🌱 **Growth Phase:** Diving into backend patterns and the mathematical foundations of Computer Graphics.
 
-### 💻 Technical Toolkit
+### 💻 Tools of the Trade
 | Category | Tools & Tech |
 | :--- | :--- |
 | **Frontend** | React, TypeScript, CSS/SCSS (Accessibility-first) |
@@ -26,4 +26,4 @@ I craft accessible, seamless web solutions with a focus on visual storytelling.
 
 
 ### ⚡ Fun Fact
-Before I started my Master's in CS, I completed the **Digital Asset Creation** program at **Think Tank Training Centre**. I love to balance a an artistic vision with the logic and theories of Computer Science.
+Before I started my Master's in CS, I completed the **Digital Asset Creation** program at **Think Tank Training Centre**. I love to balance an artistic vision with the logic and theories of Computer Science.
