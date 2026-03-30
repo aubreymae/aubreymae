@@ -7,7 +7,7 @@
 ### 💻 Tools of the Trade
 | Category | Tech |
 | :--- | :--- |
-| **Frontend** | React, TypeScript, HTML/CSS |
+| **Frontend** | React, JavaScript, TypeScript, HTML/CSS |
 | **Backend** | Node.js, Express, PostgreSQL |
 | **Academic** | Master of Science in Computer Science (OMSCS) |
 
