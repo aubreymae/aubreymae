@@ -9,7 +9,7 @@
 | :--- | :--- |
 | **Frontend** | React, JavaScript, TypeScript, HTML/CSS |
 | **Backend** | Node.js, Express, PostgreSQL |
-| **Academic** | Master of Science in Computer Science (OMSCS) |
+| **Education** | Master of Science in Computer Science (OMSCS) |
 
 ### ⚡ Fun Fact
-I’m building in public while pursuing OMSCS part-time. Currently deepening knowledge and understanding of backend systems with an interest in visual computing.
+I’m building in public while pursuing OMSCS part-time. Currently deepening knowledge and understanding of backend systems.
