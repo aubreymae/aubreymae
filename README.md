@@ -1,8 +1,7 @@
 # Hey, I'm Aubrey 👋 
 
 ### Works in Progress
-- 📕 **Blogging API:** Building a microblogging API to sharpen backend and db skills
-- 🔭 **Improving CycleSpots:** Migrating to React with plans for Node + Express for APIs + PostgreSQL db
+- **Video Processing Pipeline:** Learning distributed systems
 
 ### 💻 Tools of the Trade
 | Category | Tech |
