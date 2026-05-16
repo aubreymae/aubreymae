@@ -8,8 +8,6 @@ I'm a Software Engineer and I'm pursuing my **M.S. in Computer Science** through
 - 🌱 Currently learning *distributed systems* and *backend architecture*.
 - 🔥 Interested in building technically challenging systems that blend performance, reliability, and clean developer experience.
 - 🎨 Outside of programming, I enjoy drawing, studying concept art, learning guitar, and experimenting with music production.
-- 🧠 Exploring the path from frontend-heavy work toward becoming a stronger systems-focused software engineer.
-- 📚 Balancing full-time work with part-time graduate studies at Georgia Tech.
 
 ---
 
