@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/aubreymg/))
 [![OMSCS](https://img.shields.io/badge/-OMSCS-003057?style=flat-square&logo=google-scholar&logoColor=white)](https://omscs.gatech.edu/)
 
-I'm a Solution Designer at Docebo and I'm pursuing my **M.S. in Computer Science** through OMSCS.
+I'm a Software Engineer and I'm pursuing my **M.S. in Computer Science** through OMSCS.
 
 - 🌱 Currently learning *distributed systems* and *backend architecture*.
 - 🔥 Interested in building technically challenging systems that blend performance, reliability, and clean developer experience.
