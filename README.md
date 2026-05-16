@@ -7,7 +7,7 @@
 | Category | Tech |
 | :--- | :--- |
 | **Frontend** | React, JavaScript, TypeScript, HTML/CSS |
-| **Backend** | Node.js, Express, PostgreSQL |
+| **Backend** | Python, FastAPI, Node.js, Express, PostgreSQL |
 | **Education** | Master of Science in Computer Science (OMSCS) |
 
 ### ⚡ Fun Fact
